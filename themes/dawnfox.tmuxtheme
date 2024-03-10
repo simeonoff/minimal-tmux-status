@@ -1,0 +1,7 @@
+# NOTE: you can use vars with $<var> and ${<var>} as long as the str is double quoted: ""
+# WARNING: hex colors can't contain capital letters
+
+# --> Nightfox (Dawnfox)
+fox_fg="#575279" # foreground
+fox_bg="#ebe5df" # ansi 1
+fox_accent="#ea9d34" #ansi 4
